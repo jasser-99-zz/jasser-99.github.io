@@ -66,7 +66,7 @@ nav a:link {
 }
 
 nav a:visited{
-  color:#000;
+  color:#fff;
 }
 
 nav a:hover{
@@ -87,7 +87,7 @@ nav a:hover{
 	padding: 1em 0.275em;
   background-color: #393d40;
   margin: 1em;
-  color: #fff;
+  color: #18181b;
   text-align: center;
   border: 2px solid #fff;
 }
@@ -218,8 +218,6 @@ nav li{
   margin: 0 auto;
 }
 
-.clouds{
-  margin-bottom: 10em;
 }
 
 #bottom-fixed{
@@ -271,9 +269,6 @@ nav li{
   width: 100%;
 }
 
-.clouds {
-  border-style:hidden;
-  margin-top: 10em;
-}
+
 
 }
