@@ -112,6 +112,7 @@ nav a:hover{
   padding: 1em;
   margin: 1em;
   border:2px dashed #393d40;
+  display: block;
 }
 
 .footer {
